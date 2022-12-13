@@ -1,3 +1,5 @@
+# Correct
+
 t = int(input())
 
 yes = 'Yes' * 18
